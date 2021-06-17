@@ -1,0 +1,12 @@
+h3{
+	background-color: skyblue;
+	display: inline;
+}
+.myDiv{
+	height: 300px;
+	width: 250px;
+	border: 15px outline-color:red;
+	outline-color:green;
+    background: pink;
+    text-align: center;
+}
